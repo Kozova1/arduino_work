@@ -1,8 +1,8 @@
 #include <math.h>
 
-const int REDPIN = 13;
-const int GREENPIN = 11;
-const int BLUEPIN = 7;
+const int REDPIN = A2;
+const int GREENPIN = A0;
+const int BLUEPIN = A1;
 
 uint16_t x = 0;
 float gr;
